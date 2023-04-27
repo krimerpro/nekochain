@@ -12,7 +12,7 @@
               <h3>Powering Data for the new <br>  equity<strong> blockchain</strong></h3>
               <p>Our company specializes on Blockchain Technologies,<br> Smart Contracts, dApps Development and<br> Digital Currencies Investments</p>
               <ul class="btns">
-                <li><a class="gradient theme-btn" href="https://t.me/" title="">JOIN US</a></li>
+                <li><a class="gradient theme-btn" href="https://t.me/NekoChainPortal" title="">JOIN US</a></li>
                 <li><a class="theme-btn blank" href="https://pancakeswap.finance/swap?outputCurrency=" title="">BUY NEKO TOKEN</a></li>
               </ul>
             </div>
