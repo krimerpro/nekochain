@@ -1,97 +1,49 @@
-<!-- Preloader -->
-<div class="preloader">
-    <div class="preloader-wrapper">
-        <div class="preloader-content">
-            <div class="blob-1"></div>
-          <div class="blob-2"></div>
-        </div>
-    </div>
+<img src="{{ asset('images/p3.png') }}" class="vx" alt="" data-enllax-ratio="-0.1" data-enllax-type="foreground" />
+
+
+<div class="page-loading">
+	<img src="{{ asset('images/loader.gif') }}" alt="" />
+	<span>Skip Loader</span>
 </div>
-<!-- Preloader -->
-<!-- Navbar -->
-<div class="fixed-top bg-white">
-    <div class="navbar-area sticky-black">
-        <div class="container">
-            <div class="mobile-nav">
-                <a href="#" class="mobile-brand">
-                    <img src="{{ asset('images/logo.png') }}" alt="logo" class="logo">
-                </a>
-                <div class="navbar-option">
-                    <div class="navbar-option-item">
-                        <button type="button">
-                            <i class="flaticon-user" ></i>
-                        </button>
-                    </div>
-                    <div class="navbar-option-item side-topbar-option">
-                        <button type="button">
-                            <i class="flaticon-grid" ></i>
-                        </button>
-                    </div>
-                    <div class="navbar-option-item">
-                        <button type="button" class="search-option">
-                            <i class="icofont-search-1"></i>
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="main-nav">
-            <div class="container">
-                <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="#">
-                        <img src="{{ asset('images/logo.png') }}" alt="logo" class="logo">
-                    </a>
-                    <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
-                        <ul class="navbar-nav mx-auto">
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">HOME</a>
-                            </li>
 
-                            <li class="nav-item">
-                                <a href="#about" class="nav-link">ABOUT US</a>
-                            </li>
+<div class="theme-layout">
 
-                            <li class="nav-item">
-                                <a href="#services" class="nav-link">SERVICES</a>
-                            </li>
+	<header class="sticktop">
+		<div class="menusec">
+			<div class="logo"> <a href="#" title=""><img class="hidec" src="{{ asset('images/resource/logo.png') }}" alt="" /><img class="showc" src="{{ asset('images/resource/logoc.png') }}" alt="" /></a> </div>
+			<div class="apps-btns">
+				<a href="#" class="g2" title="">UPCOMING MAINNET</a>
+			</div>
+			<div class="open-minimal-menu resopen">
+				<div id="hamburger-two">
+				     <span></span>
+				     <span></span>
+				     <span></span>
+				</div>
+			</div>
+			<nav id="navsc">
+					<ul>
+						<li><a class="smooth" href="#one" title="">ABOUT US</a></li>
+						<li><a class="smooth" href="#two" title="">TOKENOMIC</a></li>
+						<li><a class="smooth" href="#three" title="">ROADMAP</a></li>
+						<li class="menu-item-has-children">
+							<a href="#" title="">SERVICES</a>
+							<ul>
+								<li><a href="#" title="">NEKO WALLET</a></li>
+								<li><a href="#" title="">NEKO STAKING</a></li>
+								<li><a href="#" title="">NEKO SWAP</a></li>
+								<li><a href="#" title="">BRIDGE NEKO20</a></li>
+								<li><a href="#" title="">NEKO SMART CONTRACT PLATFORM</a></li>
+								<li><a href="#" title="">NEKO TESTNET</a></li>
+								<li><a href="#" title="">NEKO MAINNET</a></li>
+							</ul>
+						</li>
+					</ul>
 
-                            <li class="nav-item">
-                                <a href="#projects" class="nav-link">PROJECTS</a>
-                            </li>
+					<div class="apps-btns mobilap">
+						<a href="#" class="g2" title="">UPCOMING MAINNET</a>
+					</div>
 
-                            <li class="nav-item">
-                                <a href="#news" class="nav-link">NEWS</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="navbar-option">
-                        <div class="navbar-option-item">
-                            <a href="#" class="btn main-btn">More Features</a>
-                        </div>
-                    </div>
-                </nav>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Navbar -->
-<!-- Header -->
-<header class="header header-bg header-bottom-space header-bg-image">
-    <div class="container-fluid p-lg-0 custom-container-fluid">
-        <div class="row m-lg-0 align-items-center">
-            <div class="col-lg-6 p-lg-0">
-                <div class="max-585 ms-lg-auto">
-                    <div class="header-content header-content-white m-0">
-                        <h1>Best Machine Learning Product Creator</h1>
-                        <p>Transforming businesses with Artificial Intelligence</p>
-                        <div class="button-group button-group-animated">
-                            <a href="https://poocoin.app/tokens/0x" class="btn main-btn">Poocoin Chart</a>
-                            <a href="https://t.me/ErudexAiPortal" class="btn main-btn main-btn-white">Telegram Group</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
-<!-- Header -->
+				</nav>
+		</div>
+	</header>

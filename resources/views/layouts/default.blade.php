@@ -1,18 +1,14 @@
 <!doctype html>
-<html lang="en-US" class="no-js no-svg">
+<html>
   <head>
      @include('includes.head')
   </head>
 
-  <body>
-     <header class="row">
-         @include('includes.header')
-     </header>
+  <body class="lines" id="scrollup">
+     @include('includes.header')
 
      @yield('content')
 
-     <footer class="row">
-         @include('includes.footer')
-     </footer>
+     @include('includes.footer')
   </body>
 </html>
