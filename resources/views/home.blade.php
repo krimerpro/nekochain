@@ -130,7 +130,7 @@
   </div>
 </section>
 
-<!-- <section>
+<section>
   <div class="block">
     <div class="container">
       <div class="row">
@@ -150,7 +150,7 @@
       </div>
     </div>
   </div>
-</section> -->
+</section>
 
 <section id="three">
   <div class="block">

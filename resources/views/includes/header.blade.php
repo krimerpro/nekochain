@@ -24,7 +24,7 @@
 			<nav id="navsc">
 					<ul>
 						<li><a class="smooth" href="#one" title="">ABOUT US</a></li>
-						<!-- <li><a class="smooth" href="#two" title="">TOKENOMIC</a></li> -->
+						<li><a class="smooth" href="#two" title="">TOKENOMIC</a></li>
 						<li><a class="smooth" href="#three" title="">ROADMAP</a></li>
 						<li class="menu-item-has-children">
 							<a href="#" title="">SERVICES</a>
