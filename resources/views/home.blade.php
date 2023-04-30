@@ -13,11 +13,11 @@
               <p>Our company specializes on Blockchain Technologies,<br> Smart Contracts, dApps Development and<br> Digital Currencies Investments</p>
               <ul class="btns">
                 <li><a class="gradient theme-btn" href="https://t.me/NekoChainPortal" title="">JOIN US</a></li>
-                <li><a class="theme-btn blank" href="https://pancakeswap.finance/swap?outputCurrency=0X" title="">BUY NEKO TOKEN</a></li>
+                <li><a class="theme-btn blank" href="https://pancakeswap.finance/swap?outputCurrency=0x0748206E383BF8107b65D8C5b66Eb5AeA3146d51" title="">BUY NEKO TOKEN</a></li>
               </ul>
 
               <div class="row">&nbsp;</div>
-              <span style="font-weight:bold;color:white;padding-top:20px">Contract Address : 0X</span>
+              <span style="font-weight:bold;color:white;padding-top:20px">Contract Address : 0x0748206E383BF8107b65D8C5b66Eb5AeA3146d51</span>
             </div>
             <div class="fimg animute wow fadeIn" data-wow-delay="0.2s">
               <img src="{{ asset('images/resource/mockup1.png') }}" alt="" />
