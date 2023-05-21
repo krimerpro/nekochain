@@ -10,7 +10,7 @@
 
 	<header class="sticktop">
 		<div class="menusec">
-			<div class="logo"> <a href="#" title=""><img class="hidec" src="{{ asset('images/resource/logo.png') }}" alt="" /><img class="showc" src="{{ asset('images/resource/logoc.png') }}" alt="" /></a> </div>
+			<div class="logo"> <a href="#" title=""><img class="hidec" src="{{ asset('images/resource/logo.png') }}" alt="" /><img class="showc" src="{{ asset('images/resource/logo.png') }}" alt="" /></a> </div>
 			<div class="apps-btns">
 				<a href="#" class="g2" title="">UPCOMING MAINNET</a>
 			</div>
